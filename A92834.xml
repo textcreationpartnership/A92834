@@ -1,0 +1,207 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The second summons to Newark sent from the Committee of both Kingdoms, to the governour, gentry, mayor, aldermen and burgesses of that town. Together with the governours answer thereunto. Wherein he desires a short time for the preparing of articles for the surrender of the said town, and hostages for the security of his commissioners. Appointed by the Honorable William Lenthal Esq; Speaker of the Honorable House of Commons, to be forthwith printed and published.</title>
+            <author>England and Wales. Commissioners of Both Kingdoms.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92834</idno>
+            <idno type="STC">Wing S2335</idno>
+            <idno type="STC">Thomason E335_15</idno>
+            <idno type="STC">ESTC R200792</idno>
+            <idno type="EEBO-CITATION">99861442</idno>
+            <idno type="PROQUEST">99861442</idno>
+            <idno type="VID">113578</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92834)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113578)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 54:E335[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The second summons to Newark sent from the Committee of both Kingdoms, to the governour, gentry, mayor, aldermen and burgesses of that town. Together with the governours answer thereunto. Wherein he desires a short time for the preparing of articles for the surrender of the said town, and hostages for the security of his commissioners. Appointed by the Honorable William Lenthal Esq; Speaker of the Honorable House of Commons, to be forthwith printed and published.</title>
+                  <author>England and Wales. Commissioners of Both Kingdoms.</author>
+                  <author>Belasyse, John Belasyse, Baron, 1615-1689.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edw. Husband, printer to the Honorable House of Commons,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>May 4. 1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Treaties --  Early works to 1800.</term>
+               <term>Newark (Nottinghamshire, England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113578:1" rendition="simple:additions"/>
+            <p>The Second SVMMONS TO NEWARK SENT From the Committee of both King<g ref="char:EOLhyphen"/>doms, to the Governour, Gentry, Mayor, Aldermen and Burgeſſes of that Town.</p>
+            <p>Together with The Governours ANSWER thereunto.</p>
+            <p>Wherein he deſires A ſhort time for the preparing of Articles for the Surrender of the ſaid Town, and Hoſtages for the ſecurity of his Commiſſioners.</p>
+            <p>
+               <hi>APpointed by the Honorable</hi> William Lenthal <hi>Eſq; Speaker of the Honorable Houſe of Commons, to be forthwith printed and publiſhed.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Edw. Husband,</hi> Printer to the Honorable Houſe of Commons, <hi>May</hi> 4. 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="summons">
+            <pb facs="tcp:113578:2"/>
+            <pb n="3" facs="tcp:113578:2"/>
+            <head>The ſecond <hi>Summons</hi> to the Gover<g ref="char:EOLhyphen"/>nour of <hi>Newark.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">V</seg>VEE hope you have conſidered that our Paper (as you term it) contained a Summons from us: What we received from you, merits no Reply. We were in earneſt, as to give an Accompt to God and man of our Proceedings, and to ſhew, that nothing from you can hinder our endeavouring that you may ſee your approaching Ruine. And whileſt there is time to avoid it, We once more de<g ref="char:EOLhyphen"/>mand of you in the Name of both Houſes of Parliament of <hi>England,</hi> and for the uſe of King and Parliament, That you forth<g ref="char:EOLhyphen"/>with deliver up the Town and Garriſon of <hi>Newark</hi> into their hands; and We ſhall give you Conditions for the Surrender thereof, which you muſt not expect to be ſuch as
+<pb n="4" facs="tcp:113578:3"/>you might formerly have obtained. This is the laſt Summons We ſhall ſend you; now accepting of what is offered, will de<g ref="char:EOLhyphen"/>clare you are ſenſible of the total loſſe of your Eſtates, the devaſtation of the County round about you; of the Ruine of the Town, and of the Blood which may elſe be ſpilt. We ſhall expect your poſitive Anſwer by three of the clock to morrow in the Afternoon at <hi>Balderion.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <hi>Collingham,</hi> 
+                  <date>
+                     <hi>April</hi> 27. 1646.</date>
+               </dateline> For the Governour of the Town and Garriſon of <hi>Newark,</hi> the Gentry there, and the Mayor, Aldermen, and Burgeſſes of that Town.
+<signed>Signed in the Name, and by the Committee of both Kingdoms.</signed>
+            </closer>
+         </div>
+         <div type="answer">
+            <pb n="5" facs="tcp:113578:3"/>
+            <head>The <hi>Anſwer</hi> of the <hi>Summons</hi> to Colonel General <hi>Poyntz.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Have received a ſecond Summons from the Committee of both Kingdoms; but by their own Directions, the buſineſſe concerns ſo many, as they cannot expect a ſudden return: However, I deſire you would be pleaſed to let thoſe Lords know, That on Wedneſday I ſhall ſend mine Anſwer, and remain,</p>
+            <closer>
+               <salute>Sir,</salute> 
+               <signed>Your humble Servant, <hi>Iohn Bellaſyſe.</hi>
+               </signed>
+               <dateline>
+                  <hi>Newark,</hi> 
+                  <date>
+                     <hi>April</hi> 27. 1646.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="answer">
+            <pb n="6" facs="tcp:113578:4"/>
+            <head>The Governour of <hi>Newarks</hi> An<g ref="char:EOLhyphen"/>ſwer to the Summons of the Com<g ref="char:EOLhyphen"/>mittee of both Kingdoms.</head>
+            <p>THe conſideration of what is requi<g ref="char:EOLhyphen"/>red in your Summons of <hi>Monday</hi> laſt, being of ſo high Concernment to His Majeſty, and to the particular Intereſts of very many of His faithful Subjects in the Garriſon, I conceive a ſhorter time then <hi>Monday</hi> next to pre<g ref="char:EOLhyphen"/>pare Articles of ſo divers natures as are neceſſary to be Treated on, will not be ſufficient. At which time I will not fail to ſend ſuch to you; and upon your aſſent to them, to ſurrender the Town. In the mean time I ſend you here underwrit<g ref="char:EOLhyphen"/>ten, the names of ſuch Commiſsioners for
+<pb n="7" facs="tcp:113578:4"/>the Nobility, Gentry, Souldiery, Clergy and Townſmen, as I do intruſt for the Treating of thoſe Articles, with an equal number of yours, whoſe Names I ſhall deſire by the next; and that you will appoint ſuch a place as ſhall be moſt convenient for the Treaty. And I further expect, That a ſafe Conduct be granted, and Hoſtages delivered for the ſecurity of thoſe Commiſsioners im<g ref="char:EOLhyphen"/>ployed by me,</p>
+            <closer>
+               <dateline>
+                  <hi>Newark,</hi> 
+                  <date>
+                     <hi>April</hi> 29. 1646.</date>
+               </dateline>
+               <signed>Iohn Bellaſyſe.
+<list>
+                     <item>The Lord <hi>Lexington.</hi>
+                     </item>
+                     <item>Mr. <hi>Bellaſyſe.</hi>
+                     </item>
+                     <item>Sir <hi>Bryan Palmes.</hi>
+                     </item>
+                     <item>Sir <hi>Gervas Nevil.</hi>
+                     </item>
+                     <item>Col. <hi>Darcy.</hi>
+                     </item>
+                     <item>Major General <hi>Eyre.</hi>
+                     </item>
+                     <item>Sir <hi>Simon Fanſhaw.</hi>
+                     </item>
+                     <item>Sir <hi>Gamaliel Dudly.</hi>
+                     </item>
+                     <item>Col. <hi>Adkins</hi>
+                     </item>
+                     <item>Dr. <hi>Marſh</hi> Dean of <hi>York.</hi>
+                     </item>
+                     <item>Mr. <hi>Standiſh</hi> Alder<g ref="char:EOLhyphen"/>man.</item>
+                     <item>Col. <hi>Gilby.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
